@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Homework-1</title> 
+    <title>Homework-2</title> 
 </head> 
 
 <?php
